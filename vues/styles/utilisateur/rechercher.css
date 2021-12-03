@@ -1,0 +1,15 @@
+body {
+    color: white;
+    text-align: center;
+}
+
+h1{
+    color: white;
+    font-weight: bold;
+}
+
+table {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+}
